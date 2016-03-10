@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+body 
+  { 
+background-color: #97CFC7; }
+
+    img { width:"200px";
+         height:"200px"; 
+								  } 
+								  
+*{ text-align:center}
+
+
+h5 { color: #BDE3DC; font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+h2 { color: #528F85; font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+#nav: hover  { color:#17A57A }
+#nav  { border:3px sloid #528F85;
+        background-color:#6C9C8A;
+		height:15;
+		width:15;
+		margin: auto;
+		text-align:center;
+		
+}
+
+#header { 
+	border: 2px solid #528F85;
+	background-color: #6C9C8A;
+	height: 75px;
+	width: 500px;
+	margin: auto;
+	text-align: center;
+
+}
+
+a { color:#528F85; 
+   font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+
+:link :hover { outline:#D3F4EB }
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/others/oth-8/oth705.cur), progress !important;} /* End http://www.cursors-4u.com */
